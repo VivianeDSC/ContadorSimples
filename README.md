@@ -1,2 +1,2 @@
 # ContadorSimples
-# ContadorSimples
+Soma e adição
